@@ -1,0 +1,20 @@
+C:\Users\Vihanga B\source\repos\Weekly pay of a Employee\Weekly pay of a Employee\bin\Debug\Weekly pay of a Employee.exe.config
+C:\Users\Vihanga B\source\repos\Weekly pay of a Employee\Weekly pay of a Employee\bin\Debug\Weekly pay of a Employee.exe
+C:\Users\Vihanga B\source\repos\Weekly pay of a Employee\Weekly pay of a Employee\bin\Debug\Weekly pay of a Employee.pdb
+C:\Users\Vihanga B\source\repos\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly pay of a Employee.csproj.AssemblyReference.cache
+C:\Users\Vihanga B\source\repos\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly_pay_of_a_Employee.Form1.resources
+C:\Users\Vihanga B\source\repos\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly_pay_of_a_Employee.Properties.Resources.resources
+C:\Users\Vihanga B\source\repos\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly pay of a Employee.csproj.GenerateResource.cache
+C:\Users\Vihanga B\source\repos\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly pay of a Employee.csproj.CoreCompileInputs.cache
+C:\Users\Vihanga B\source\repos\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly pay of a Employee.exe
+C:\Users\Vihanga B\source\repos\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly pay of a Employee.pdb
+D:\Programming\C# Academic Project\Weekly pay of a Employee\Weekly pay of a Employee\bin\Debug\Weekly pay of a Employee.exe.config
+D:\Programming\C# Academic Project\Weekly pay of a Employee\Weekly pay of a Employee\bin\Debug\Weekly pay of a Employee.exe
+D:\Programming\C# Academic Project\Weekly pay of a Employee\Weekly pay of a Employee\bin\Debug\Weekly pay of a Employee.pdb
+D:\Programming\C# Academic Project\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly pay of a Employee.csproj.AssemblyReference.cache
+D:\Programming\C# Academic Project\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly_pay_of_a_Employee.Form1.resources
+D:\Programming\C# Academic Project\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly_pay_of_a_Employee.Properties.Resources.resources
+D:\Programming\C# Academic Project\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly pay of a Employee.csproj.GenerateResource.cache
+D:\Programming\C# Academic Project\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly pay of a Employee.csproj.CoreCompileInputs.cache
+D:\Programming\C# Academic Project\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly pay of a Employee.exe
+D:\Programming\C# Academic Project\Weekly pay of a Employee\Weekly pay of a Employee\obj\Debug\Weekly pay of a Employee.pdb
